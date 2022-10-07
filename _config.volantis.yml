@@ -83,9 +83,9 @@ scroll_smooth: true
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: /images/小猪仔.svg
+    img: 
     icon:
-    title:
+    title: Jayeve
   menu:
     - name: 博客
       icon: fa-solid fa-rss
