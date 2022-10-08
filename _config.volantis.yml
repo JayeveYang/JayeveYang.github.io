@@ -117,12 +117,12 @@ cover:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
+  background: /images/BG001.png
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: 'Volantis'
+  title: 'Jayeve'
   subtitle: ''
-  search: A Wonderful Theme for Hexo # search bar placeholder
+  search: 猪小屁～ # search bar placeholder
   features:
     - name: 文档
       icon: #
