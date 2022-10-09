@@ -85,7 +85,7 @@ navbar:
   logo: # choose [img] or [icon + title]
     img: /images/logo.JPG
     icon: 
-    title: Jayeve
+    title:
   menu:
     - name: 博客
       icon: fa-solid fa-rss
