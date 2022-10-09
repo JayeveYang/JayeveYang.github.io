@@ -83,7 +83,7 @@ scroll_smooth: true
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: 
+    img: /images/logo.jpg
     icon: /images/logo.jpg
     title: Jayeve
   menu:
