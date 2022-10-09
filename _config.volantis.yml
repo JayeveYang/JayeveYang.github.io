@@ -83,8 +83,8 @@ scroll_smooth: true
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: /images/logo.jpg
-    icon: /images/logo.jpg
+    img: /images/logo.JPG
+    icon: 
     title: Jayeve
   menu:
     - name: 博客
