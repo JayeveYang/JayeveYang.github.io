@@ -84,7 +84,7 @@ navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
     img: 
-    icon:
+    icon: /images/logo.jpg
     title: Jayeve
   menu:
     - name: 博客
