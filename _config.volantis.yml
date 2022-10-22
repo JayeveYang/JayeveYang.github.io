@@ -639,7 +639,7 @@ site_footer:
       url: /
     - icon: fas fa-envelope
       url: mailto:Jayeveyang@gmail.com
-    - icon: fa-solid fa-coin-front
+    - icon: fa-sharp fa-solid fa-pig
       url: /
     - icon: fab fa-github
       url: https://github.com/JayeveYang
