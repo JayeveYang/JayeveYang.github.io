@@ -104,3 +104,6 @@ theme: volantis
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# 网站图标，更多尺寸等图标请使用import方式批量导入
+favicon: /images/favicon.ico
