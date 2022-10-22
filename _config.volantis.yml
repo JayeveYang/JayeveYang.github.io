@@ -633,10 +633,20 @@ site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
   layout: [social,  copyright]
   social:
+    - icon: fa-solid fa-piggy-bank
+      url: /
+    - icon: fa-solid fa-piggy-bank
+      url: /
     - icon: fas fa-envelope
       url: mailto:Jayeveyang@gmail.com
+    - icon: fa-solid fa-piggy-bank
+      url: /
+    - icon: fa-solid fa-piggy-bank
+      url: /
     - icon: fab fa-github
       url: https://github.com/JayeveYang
+    - icon: fa-solid fa-piggy-bank
+      url: /
     - icon: fa-solid fa-piggy-bank
       url: /
   # site source
