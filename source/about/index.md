@@ -6,7 +6,6 @@ bottom_meta: false
 sidebar: []
 comments: false
 ---
-
-Stay Hungry.Stay Foolish.
+There is no reason that a human mind can keep up with an artificial intelligence machine by 2035
 
 Jayeve Yang
