@@ -369,7 +369,7 @@ comments:
     order: desc
     theme:
       light: github-light
-      dark: github-dark
+   #dark: github-dark
     label: ✨💬✨
 
   # utterances
