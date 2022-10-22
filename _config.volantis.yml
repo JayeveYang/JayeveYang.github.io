@@ -314,7 +314,7 @@ article:
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论
   subtitle:
-  service: giscus
+  service: beaudar
   # 可选评论系统 #
 
   # artalk
@@ -361,7 +361,7 @@ comments:
   # beaudar
   # https://beaudar.lipk.org/
   beaudar:
-    repo: xxx/xxx
+    repo: JayeveYang/blog-comments
     issue-term: pathname
     issue-number:
     branch: main
