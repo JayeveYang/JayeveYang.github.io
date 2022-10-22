@@ -363,7 +363,7 @@ comments:
   beaudar:
     repo: JayeveYang/blog-comments
     issue-term: pathname
-    issue-number:
+    issue-number: 
     branch: main
     position: top
     order: desc
