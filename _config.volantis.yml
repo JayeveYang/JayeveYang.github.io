@@ -508,10 +508,10 @@ sidebar:
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:
         - icon: fa-solid fa-envelope
-          url: mailto:me@xxx.com
+          url: mailto:Jayeveyang@gmail.com
         - icon: fab fa-github
           url: https://github.com/JayeveYang/
-        - icon: fa-regular fa-pig
+        - icon: fa-solid fa-piggy-bank
           url: /
     # ---------------------------------------
     # toc widget (valid only in articles)
