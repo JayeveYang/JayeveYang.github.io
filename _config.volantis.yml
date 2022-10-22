@@ -637,8 +637,8 @@ site_footer:
       url: mailto:Jayeveyang@gmail.com
     - icon: fab fa-github
       url: https://github.com/JayeveYang
-    - icon: fa-regular fa-pig
-      url:
+    - icon: fa-solid fa-piggy-bank
+      url: /
   # site source
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using leancloud
