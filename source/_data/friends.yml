@@ -1,4 +1,4 @@
-- group: 
+- group:  123
   description:  狐朋狗友
   items:
     - title: weijiajin
@@ -9,7 +9,7 @@
       description: 「Stay Hungry.Stay Foolish.」
     - title: Squ1rrel
       avatar: https://squ1rrel-k.github.io/images/logo.jpg
-      url: https://squ1rrel-k.github.io/
+      url: https://squ1rrel-k.github.io
       screenshot: https://s1.ax1x.com/2022/09/23/xkjr79.png
       keywords: 小松鼠
       description: 小松鼠
