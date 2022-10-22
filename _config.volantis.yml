@@ -633,16 +633,16 @@ tag_plugins:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [aplayer, social, license, analytics, info, copyright]
+  layout: [social,  copyright]
   social:
-    - icon: #fa-solid fa-rss
-      url:
-    # or
-    - img:
-      url:
-    # or
-    - avatar:
-      url:
+    - icon: fas fa-rss
+      url: /atom.xml
+    - icon: fas fa-envelope
+      url: mailto:wejudging@gmail.com
+    - icon: fab fa-github
+      url: https://github.com/JayeveYang
+    - icon: fas fa-headphones-alt
+      url: https://music.163.com/#/user/home?id=373722045
   # site source
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using leancloud
@@ -650,7 +650,7 @@ site_footer:
     <span id="lc-sv">本站总访问量为 <span id='number'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 次</span>
     <span id="lc-uv">访客数为 <span id='number'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
   # site copyright
-  copyright: '[Copyright © since 2022](/)'
+  copyright: '[Copyright © 2022 JayeveYang ](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
 ############################### Site Footer ############################### > end
