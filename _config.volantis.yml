@@ -507,13 +507,11 @@ sidebar:
       subtitle:
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:
-        - icon: fa-solid fa-rss
-          url: /atom.xml
         - icon: fa-solid fa-envelope
           url: mailto:me@xxx.com
         - icon: fab fa-github
           url: https://github.com/JayeveYang/
-        - icon: fa-solid fa-headphones-alt
+        - icon: fa-regular fa-pig
           url: /
     # ---------------------------------------
     # toc widget (valid only in articles)
