@@ -635,14 +635,12 @@ site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
   layout: [social,  copyright]
   social:
-    - icon: fas fa-rss
-      url: /atom.xml
     - icon: fas fa-envelope
-      url: mailto:wejudging@gmail.com
+      url: mailto:Jayeveyang@gmail.com
     - icon: fab fa-github
       url: https://github.com/JayeveYang
-    - icon: fas fa-headphones-alt
-      url: https://music.163.com/#/user/home?id=373722045
+    - icon: fa-regular fa-pig
+      url:
   # site source
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using leancloud
