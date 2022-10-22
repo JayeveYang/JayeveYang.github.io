@@ -92,20 +92,20 @@ navbar:
       url: /
     - name: 分类
       icon: fa-solid fa-folder-open
-      url: categories/
+      url: /categories
     - name: 标签
       icon: fa-solid fa-tags
-      url: tags/
+      url: /tags
     - name: 归档
       icon: fa-solid fa-archive
-      url: archives/
+      url: /archives
     - name: 友链
       icon: fa-solid fa-link
-      url: friends/
+      url: /friends
     - name: 关于
       icon: fa-solid fa-info-circle
-      url: about/
-  search: Search...   # Search bar placeholder
+      url: /about
+  search: 猪小屁~   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
 
@@ -135,7 +135,7 @@ cover:
     - name: 标签
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f396.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg
-      url: /tags/
+      url: /tags
     - name: 归档
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
