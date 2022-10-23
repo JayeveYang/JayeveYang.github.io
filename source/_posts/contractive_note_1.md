@@ -2,9 +2,9 @@ title: 对比学习学习笔记（一）
 date: 2022-10-22 23:30:09
 categories: 对比学习
 tags: Contrastive Learning
+---
 相关工作及论文<<基于图嵌入的代码相似性度量>>（梁瑶、谢春丽等著）学习
 <!-- more -->
----
 ### 对比学习相关论文：
 1.《Efficient Framework for Learning Code Representations through Semantic-Preserving Program Transformations》
 2.《Contrastive Code Representation Learning》
