@@ -9,6 +9,7 @@ tags: Contrastive Learning
 1.《Efficient Framework for Learning Code Representations through Semantic-Preserving Program Transformations》
 2.《Contrastive Code Representation Learning》
 3.《HELoC: Hierarchical Contrastive Learning of Source Code Representation》
+
 ### 目前工作相关论文：
 1.《基于图嵌入的代码相似性度量》
 2.《Code Clone Detection based on Contrastive Learning》
@@ -21,7 +22,8 @@ tags: Contrastive Learning
 ### 现有实验代码：
 1.graph_embedding:基于图嵌入的代码相似性度量
 2.clone_detection:基于对比学习的代码克隆检测（token级别）
+
 ### 数据说明：
 Category 已对原始bcb数据级进行扩展后的方法级代码数据
----
+
 # 基于图嵌入的代码相似性度量
