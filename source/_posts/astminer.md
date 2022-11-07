@@ -17,21 +17,27 @@ astminer：[JetBrains-Research/astminer: A library for mining of path-based repr
 ### 实验代码
 在jar包目录下打开终端，本文用的0.6版本，其具体格式如下：
 
-`java -jar lib-0.5.jar code2vec --lang cpp --project %源代码的目录% --output %需要生成的code2vec的输入数据的目录%`
-
+```bash
+java -jar lib-0.5.jar code2vec --lang cpp --project %源代码的目录% --output %需要生成的code2vec的输入数据的目录%
+```
 使用示例如下，此外该方法可对单个文件或整个文件夹进行处理。
 
-`java -jar lib-0.6.jar code2vec --lang java --project D:/test/Contra_Learning/samesemantic2/convert/333433_1_convert_0.java --output D:/test/Contra_Learning/test`
+```bash
+java -jar lib-0.6.jar code2vec --lang java --project D:/test/Contra_Learning/samesemantic2/convert/333433_1_convert_0.java --output D:/test/Contra_Learning/test
+```
 
 其中，lib-0.6.jar为当前目录下的jar包，code2vec表示输出格式(preprocess, parse, pathContexts, code2vec), --lang用于配置语言，可用-h或者是--help命令来查看不同输出格式下的参数配置信息。
 
-`java -jar lib-0.6.jar code2vec -h`
+```bash
+java -jar lib-0.6.jar code2vec -h
+```
 
 ### 问题总结
 
 在运行该命令行语句时,发现方法级文件所生成的结果文件中除path_contexts文件外均为空，尝试对源文件加入public class test{}后再运行上述指令，运行结果正常。因此可暂且采用此方法在方法级上生成code2vec数据格式。
 
 ### 结果分析
+
 node_types.csv包含数字ID和带有方向的相应节点类型（如纸张所述，向上/向下）可理解为箭头朝向。
 tokens.csv 包含数字ID和相应的标记。
 paths.csv 以空格分隔的节点类型ID序列形式包含数字ID和全部的AST路径，其中AST路径中的数字对应node_types文件中的数字ID。
